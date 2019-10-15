@@ -1,0 +1,14 @@
+Tasks:
+ -interactive front end (Turtle) - Alliah, Chris
+ -interactive front end (TKinter) - Alliah, Chris
+ -command line switches - Alliah, Chris
+ -graphics.py - Alliah, Chris
+ -parsing from configurable lookup table - Alliah, Chris
+ -Tkinter - Alliah, Chris
+ -Turtle - Alliah, Caitlyn
+ -Error handling - Alliah, Chris
+
+Instruction:
+ - In command line to enter Tkinter interactive front end type SourceReader.py -c k type Exit to close then,
+ - In command line to enter Turtle interactive front end type SourceReader.py -c t
+
